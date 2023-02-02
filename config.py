@@ -40,7 +40,7 @@ TG_BOT_WORKERS = "4"
 START_MSG = "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
 try:
     ADMINS=[]
-    for x in ("1972662787").split()):
+    for x in ("1972662787").split():
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")

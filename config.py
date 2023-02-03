@@ -32,7 +32,7 @@ DB_URI = "mongodb+srv://480p:encode@cluster0.7fgwrif.mongodb.net/?retryWrites=tr
 DB_NAME = "filesharexbot"
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = "-1751200464"
+FORCE_SUB_CHANNEL = "-1001751200464"
 
 TG_BOT_WORKERS = "4"
 
